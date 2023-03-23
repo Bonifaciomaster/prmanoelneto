@@ -140,7 +140,7 @@ body {
 }
 
 .text-org {
-    color: #f47d23
+    color: #fcfbfb
 }
 
 .gr-line {
@@ -374,7 +374,7 @@ table {
 }
 
 .js .animate-box {
-    opacity: 50;
+    opacity: 0;
 }
 
 @media (max-width: 786px) {

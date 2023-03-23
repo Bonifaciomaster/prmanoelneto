@@ -374,7 +374,7 @@ table {
 }
 
 .js .animate-box {
-    opacity: 0;
+    opacity: 50;
 }
 
 @media (max-width: 786px) {

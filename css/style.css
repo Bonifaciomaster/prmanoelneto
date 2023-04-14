@@ -383,6 +383,10 @@ table {
 
 @media (max-width: 786px) {
 
+    .img {
+        width: 50%;
+      }
+
     .login {
         font-size: 14px;
         text-align: center;

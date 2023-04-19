@@ -17,6 +17,20 @@ body {
     color: #000000;
   }
 
+  .preco2 {
+    font-family: 'Raleway', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    font-weight: bold;
+    font-size: 44px;
+    color: #fd0000;
+  }
+
+  .precoantigo2 {
+    font-family: 'Raleway', sans-serif !important;
+    font-weight: normal;
+    font-size: 25px;
+    color: #fffb00;
+  }
+
 .top-bar {
     background-color: #1f2533;
     color: white;

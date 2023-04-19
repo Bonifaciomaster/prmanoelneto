@@ -3,6 +3,12 @@ body {
     overflow-x: hidden;
 }
 
+.preco {
+    font-weight: bold;
+    font-size: 24px;
+    color: #333;
+  }
+
 .top-bar {
     background-color: #1f2533;
     color: white;

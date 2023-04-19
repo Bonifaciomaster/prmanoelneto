@@ -4,12 +4,14 @@ body {
 }
 
 .preco {
+    font-family: 'Raleway', sans-serif !important;
     font-weight: bold;
     font-size: 24px;
     color: #fd0000;
   }
 
   .precoantigo {
+    font-family: 'Raleway', sans-serif !important;
     font-weight: normal;
     font-size: 20px;
     color: #ffe600;

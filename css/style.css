@@ -9,6 +9,12 @@ body {
     color: #333;
   }
 
+  .precoantigo {
+    font-weight: normal;
+    font-size: 14px;
+    color: #333;
+  }
+
 .top-bar {
     background-color: #1f2533;
     color: white;

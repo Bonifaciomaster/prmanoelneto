@@ -365,7 +365,7 @@ body {
     background-image: url(../img/wordpress.jpg);
     padding-top: 3%;
     height: auto;
-    max-width: 100%;
+    max-width: auto;
 }
 
 .icons {

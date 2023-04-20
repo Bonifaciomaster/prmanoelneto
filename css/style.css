@@ -364,7 +364,7 @@ body {
 .wordpress-bg {
     background-image: url(../img/wordpress.jpg);
     padding-top: 3%;
-    height: 450px;
+    height: auto;
     max-width: 100%;
 }
 

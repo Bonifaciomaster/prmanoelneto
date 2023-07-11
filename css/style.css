@@ -103,6 +103,14 @@ body {
 
 }
 
+.btn-contador {
+    background-color: #b90e0e;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+
+
+}
+
 .aft-banner {
     background-color: #1f2533;
     color: white;

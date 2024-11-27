@@ -1,6 +1,7 @@
 
 .blink {
     animation: blink 1s steps(1, end) infinite;
+    color: #fd0000;
   }
   
   @keyframes blink {
@@ -13,6 +14,7 @@
     100% {
       opacity: 1;
     }
+
   }
 
 

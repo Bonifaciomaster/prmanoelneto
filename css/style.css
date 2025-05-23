@@ -547,26 +547,7 @@ table {
         margin-bottom: -10px;
     }
 
-    .indicators {
-        display: flex;
-        justify-content: center;
-        margin-top: 10px;
-      }
-      
-      .indicators span {
-        height: 10px;
-        width: 10px;
-        margin: 0 4px;
-        background-color: #ccc;
-        border-radius: 50%;
-        display: inline-block;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-      }
-      
-      .indicators span.active {
-        background-color: #333;
-      }
+    
 
 
 }

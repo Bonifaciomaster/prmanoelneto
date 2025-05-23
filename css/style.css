@@ -547,7 +547,75 @@ table {
         margin-bottom: -10px;
     }
 
-  
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background: #f7f7f7;
+        text-align: center;
+      }
+      
+      h1 {
+        margin-bottom: 20px;
+      }
+      
+      .carousel-container {
+        position: relative;
+        max-width: 700px;
+        margin: auto;
+        overflow: hidden;
+      }
+      
+      .carousel {
+        display: flex;
+        transition: transform 0.5s ease-in-out;
+      }
+      
+      .book {
+        min-width: 200px;
+        margin: 0 10px;
+        background: white;
+        padding: 10px;
+        border-radius: 8px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        text-align: center;
+      }
+      
+      .book img {
+        max-width: 100%;
+        border-radius: 4px;
+      }
+      
+      .title {
+        font-weight: bold;
+        margin: 10px 0 5px;
+      }
+      
+      .price {
+        color: green;
+        font-weight: bold;
+      }
+      
+      .nav {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 28px;
+        background: none;
+        border: none;
+        cursor: pointer;
+        z-index: 1;
+        color: #333;
+        user-select: none;
+      }
+      
+      .left {
+        left: 0;
+      }
+      
+      .right {
+        right: 0;
+      }
 
 
 }
